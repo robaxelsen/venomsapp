@@ -1,0 +1,38 @@
+body {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+.venh2 {
+  font-size: 4rem;
+}
+
+.showaffs {
+  background: red;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+  font-size: 1.8rem;
+  margin-bottom: 5px;
+}
+
+.showcures {
+  background: green;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.showdesc {
+  background: grey;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+  font-size: 1.8rem;
+  margin-bottom: 5px;
+}
